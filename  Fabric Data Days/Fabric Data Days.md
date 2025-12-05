@@ -1,6 +1,7 @@
+# 패브릭 데이터 엔지니어(DP-700) Ignite & Fabric 데이터 데이 기술 챌린지
+
 https://aka.ms/FabricDataDays
 
-# 패브릭 데이터 엔지니어(DP-700) Ignite & Fabric 데이터 데이 기술 챌린지
 https://learn.microsoft.com/en-us/collections/4w30hxtrr1yo3x?ref=collection&listId=o3jdbgtzd6nxy5&sharingId=2EC00F8B58DDBD52&WT.mc_id=cloudskillschallenge_o3jdbgt5j73qrx&source=learn&enrollUser=true
 ## Prepare for Exam Day [1]
 https://developer.microsoft.com/ko-kr/reactor/events/26408?wt.mc_id=1reg_26440_webpage_reactor
@@ -145,17 +146,3 @@ To be considered, please complete the form and ensure you meet the following cri
 
 - **모르면 일단 찍고 '검토' 표시, 오픈 북은 최후의 수단으로만 쓰고, 맘 편하게 시험센터로 가세요!**
 
-
-[APAC] [[ Fabric Data Days ]]
-
-@youtube 시간에 따른 내용 요약 - https://youtu.be/LAOmPgtNLWg
-
-https://learn.microsoft.com/en-us/collections/4w30hxtrr1yo3x?ref=collection&listId=o3jdbgtzd6nxy5&sharingId=2EC00F8B58DDBD52&WT.mc_id=cloudskillschallenge_o3jdbgt5j73qrx&source=learn&enrollUser=true
-
-
-
-# 데이터 기반 의사결정 2기
-https://drive.google.com/drive/folders/12LqbTk4H129y1B60ljBjgarm_1YygRBU?usp=drive_link
-
-# antigravity 
-https://antigravity.google/download
